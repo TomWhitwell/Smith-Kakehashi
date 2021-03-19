@@ -47,7 +47,7 @@
       let delta = cmp(window.latestVersion,c.firmwareVersion);
       window.versionCompared = true;
       if(delta > 0) {
-        upgradeString = `A new version of WTF Radio Music? firmware (${window.latestVersion}) is available.`;
+        upgradeString = `A new version of 8mu firmware (${window.latestVersion}) is available.`;
       } else {
         upgradeString = "";
       }
@@ -95,7 +95,7 @@
     editMode = !editMode;
   }
 
-  fetch("https://api.github.com/repos/TomWhitwell/RadioMusic/releases")
+  fetch("https://api.github.com/repos/TomWhitwell/Smith-Kakehashi/releases")
     .then(r => r.json())
     .then(d => {
       window.latestVersion = d[0].tag_name.replace(/[a-zA-z]/g, "");

@@ -1,0 +1,277 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/cores/arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/variants/MusicThing_m0_plus"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "ResponsiveAnalogRead.h",
+    "Includepath": "/Users/tom/Documents/Arduino/libraries/ResponsiveAnalogRead/src"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/libraries/SPI"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "Adafruit_ZeroDMA.h",
+    "Includepath": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/libraries/Adafruit_ZeroDMA"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "SdFat.h",
+    "Includepath": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "Adafruit_SPIFlash.h",
+    "Includepath": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "Bounce2.h",
+    "Includepath": "/Users/tom/Documents/Arduino/libraries/Bounce2/src"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "BMI160Gen.h",
+    "Includepath": "/Users/tom/Documents/Arduino/libraries/BMI160-Arduino-master"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMIDI.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMidi.cpp",
+    "Include": "Adafruit_TinyUSB.h",
+    "Includepath": "/Users/tom/Documents/Arduino/libraries/Adafruit_TinyUSB_Library/src"
+  },
+  {
+    "Sourcefile": "/var/folders/sv/l7cxqy2s3zj0mpdb5j38pr0m0000gn/T/arduino_build_745701/sketch/uMidi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/ResponsiveAnalogRead/src/ResponsiveAnalogRead.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/libraries/SPI/SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/libraries/Adafruit_ZeroDMA/Adafruit_ZeroDMA.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/FatFile.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/FatFileLFN.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/FatFilePrint.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/FatFileSFN.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/FatVolume.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/FmtNumber.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/StdioStream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/fstream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/istream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/FatLib/ostream.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/MinimumSerial.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SdCard/SdSpiCard.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SdCard/SdSpiCardEX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SdCard/SdioCardEX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SdCard/SdioTeensy.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver/SdSpiESP8266.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver/SdSpiParticle.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver/SdSpiSAM3X.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver/SdSpiSAMD.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver/SdSpiSTM32.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/SdFat_-_Adafruit_Fork/src/SpiDriver/SdSpiTeensy3.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/Adafruit_FlashCache.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/Adafruit_SPIFlash.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/Adafruit_SPIFlashBase.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/esp32/Adafruit_FlashTransport_ESP32.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/qspi/Adafruit_FlashTransport_QSPI_NRF.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/qspi/Adafruit_FlashTransport_QSPI_SAMD.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_SPIFlash/src/spi/Adafruit_FlashTransport_SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Bounce2/src/Bounce2.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/BMI160-Arduino-master/BMI160.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/BMI160-Arduino-master/BMI160Gen.cpp",
+    "Include": "Wire.h",
+    "Includepath": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/libraries/Wire"
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/BMI160-Arduino-master/BMI160Gen.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/BMI160-Arduino-master/CurieIMU.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/BMI160-Arduino-master/ss_spi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_TinyUSB_Library/src/Adafruit_TinyUSB.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_TinyUSB_Library/src/Adafruit_USBD_HID.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_TinyUSB_Library/src/Adafruit_USBD_MIDI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_TinyUSB_Library/src/Adafruit_USBD_MSC.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Documents/Arduino/libraries/Adafruit_TinyUSB_Library/src/Adafruit_USBD_WebUSB.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "/Users/tom/Library/Arduino15/packages/music thing/hardware/samd/0.1.9/libraries/Wire/Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
