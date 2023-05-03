@@ -1,4 +1,4 @@
-## 8Mu Editor 
+## 8Mu Editor  
 
 This is the temporary editor website for Music Thing Modular 8mu midi controller 
 
