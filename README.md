@@ -5,7 +5,7 @@ This is the  editor website for Music Thing Modular 8mu midi controller
 This repo contains  
 
 * Source code for the editor, visible at https://tomwhitwell.github.io/Smith-Kakehashi/ 
-* It also contains downloadable versions of the latest firmware in uf2 format https://github.com/TomWhitwell/Smith-Kakehashi/releases  
+* It also contains downloadable versions of the latest firmware in uf2 format https://github.com/TomWhitwell/Smith-Kakehashi/releases 
 
 
 
