@@ -1,0 +1,42 @@
+{
+    "config": {
+        "firmwareVersion": "1.0.1"
+    },
+    "dependencies": {
+        "semver": "^7.3.8",
+        "webmidi": "^3.1.4"
+    },
+    "devDependencies": {
+        "@sveltejs/adapter-static": "^2.0.1",
+        "@sveltejs/kit": "^1.15.10",
+        "@typescript-eslint/eslint-plugin": "^5.45.0",
+        "@typescript-eslint/parser": "^5.45.0",
+        "eslint": "^8.28.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-svelte3": "^4.0.0",
+        "gh-pages": "^5.0.0",
+        "prettier": "^2.8.0",
+        "prettier-plugin-svelte": "^2.8.1",
+        "svelte": "^3.54.0",
+        "svelte-check": "^3.0.1",
+        "tslib": "^2.4.1",
+        "typescript": "^4.9.3",
+        "vite": "^4.0.0"
+    },
+    "homepage": "https://tomwhitwell.github.io/test-host-2",
+    "name": "8mu-editor",
+    "private": true,
+    "scripts": {
+        "build": "vite build",
+        "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+        "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+        "deploy": "vite build && gh-pages -d build",
+        "dev": "vite dev",
+        "format": "prettier --plugin-search-dir . --write .",
+        "lint": "prettier --plugin-search-dir . --check . && eslint .",
+        "prepare": "svelte-kit sync",
+        "preview": "vite preview"
+    },
+    "type": "module",
+    "version": "2.0.0"
+}
