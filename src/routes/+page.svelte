@@ -63,7 +63,7 @@
 
   <div id="foot">
     <div class="foot-left">
-      8mu Editor v{buildVersion} <br>Having trouble? Please try <a href="https://tomwhitwell.github.io/test-host/">v1.0.1</a> and <a href="https://github.com/TomWhitwell/8mu_Public/issues"> let me know</a>.
+      8mu Editor v{buildVersion} <br>Having any trouble? Please try <a href="https://tomwhitwell.github.io/test-host/">v1.0.1</a> and <a href="https://github.com/TomWhitwell/8mu_Public/issues"> let me know</a>.
     </div>
   </div>
 </main>
