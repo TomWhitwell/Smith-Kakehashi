@@ -46,7 +46,7 @@
       {:else}
         <!-- webmidi compatible browser, but no device -->
         <p class="notice">
-          Searching for a controller via USB, hang on a second or ten.<br /><br
+          Searching for a controller via USB, hang on a second or ten...<br /><br
           />
           If you haven't plugged in your 8mu, do it now.<br /><br /><br />
           <img src="https://www.musicthing.co.uk/images/8mu_editor_crop.png">
