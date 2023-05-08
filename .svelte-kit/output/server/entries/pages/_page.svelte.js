@@ -1279,7 +1279,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
   <div id="inner" class="svelte-wd7jzg">${$webMidiEnabled ? `${$configuration ? `
         ${$editMode ? `${validate_component(Editing, "Editing").$$render($$result, {}, {}, {})}` : `${validate_component(Viewing, "Viewing").$$render($$result, {}, {}, {})}`}
         <p></p>` : `
-        <p class="notice svelte-wd7jzg">Searching for a controller via USB, hang on a second or ten.<br><br>
+        <p class="notice svelte-wd7jzg">Searching for a controller via USB, hang on a second or ten...<br><br>
           If you haven&#39;t plugged in your 8mu, do it now.<br><br><br>
           <img src="https://www.musicthing.co.uk/images/8mu_editor_crop.png"></p>`}` : `
       <p class="notice svelte-wd7jzg">WebMIDI could not be enabled. Please use a web browser that supports
